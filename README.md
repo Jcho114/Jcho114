@@ -1,5 +1,5 @@
 # Hello! 👋
-My name is Joseph Cho, and I am currently a student at the University of Maryland, College Park, where I am pursuing a BS in Computer Science and a Minor in Statistics! 😄
+My name is Joseph Cho, and I am currently a student at the University of Maryland, where I am pursuing a BS in Computer Science and a Minor in Statistics! 😄
 <br><br>
 I am currently learning React, Electron, Express, and much more, creating projects with the skills I gained 🌱
 <br><br>
