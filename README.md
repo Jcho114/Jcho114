@@ -1,4 +1,4 @@
-# Hello! - Joseph Cho 👋
+# Hello! Joseph Cho Here 👋
 I am a student at the University of Maryland, and I am pursuing a BS in Computer Science and a Minor in Statistics 📚
 <br><br>
 In my spare time I am learning React, Electron, Express, and much more, creating projects with the skills I acquire 🌱
