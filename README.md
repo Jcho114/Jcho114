@@ -29,6 +29,3 @@ const Joseph = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcho114)](https://github.com/anuraghazra/github-readme-stats)
 
-### Reach Out
-
-- [LinkedIn]([https://www.linkedin.com/in/todd-klinger-35b576269/](https://www.linkedin.com/in/jcho1114/))
