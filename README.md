@@ -4,17 +4,7 @@
 
 ### About Me
 
-```javascript
-const Joseph = {
-    education: {
-        school: "University of Maryland - College Park",
-        standing: "Sophomore",
-        major: "Computer Science",
-        minor: "Statistics"
-    },
-    interests: [Software Engineering, Machine Learning]
-}
-```
+I go to UMD as a cs and math double major. Mostly interested in swe and ml but have been poking around with tooling as of late.
 
 ### What I'm Currently Up To
 
