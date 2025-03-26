@@ -4,7 +4,7 @@
 
 ### About Me
 
-I go to UMD as a cs and math double major. Mostly interested in swe and ml but have been poking around with tooling as of late.
+I go to UMD as a cs and math double major. Mostly interested in software engineering and machine learning but have been poking around with developer tooling and libraries as of late.
 
 ### What I'm Currently Up To
 
