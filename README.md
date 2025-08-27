@@ -8,12 +8,11 @@ I go to UMD as a cs major and stats minor (might do math double major instead th
 
 ### What I'm Currently Up To
 
-- Surviving university courses
-- Making random full stack apps
-- Building a bunch of my own versions of popular libraries and tools I am curious about
-- Internships
+- Internship @ SpaceX (Fall 2025)
 - Working out
-- Cooking
+- Cooking food
+- Building random stuff
+- Getting ready to get cooked by coursework again next semester
 
 ### Languages & Technologies
 
