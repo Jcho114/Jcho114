@@ -8,7 +8,6 @@ I go to UMD as a CS major and Stats minor (might do Math double major instead th
 
 ### What I'm Currently Up To
 
-- SWE Internship @ SpaceX (Fall 2025)
 - Working out for fun
 - Cooking food for fun
 - Building random stuff for fun
