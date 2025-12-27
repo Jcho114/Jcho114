@@ -4,7 +4,7 @@
 
 ### About Me
 
-I go to UMD as a CS major and Stats minor (might do Math double major instead though). Mostly interested in SWE and ML but have been poking around with developer tooling and libraries too.
+I go to UMD as a CS & MATH double major. My last year so we will see what happens. Mostly interested in SWE and ML but have been poking around with developer tooling and libraries too.
 
 ### What I'm Currently Up To
 
