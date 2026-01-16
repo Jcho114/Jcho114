@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a senior at UMD majoring in CS & MATH. Mostly interested in SWE and ML but have been poking around with developer tooling and libraries too.
+Currently at my final year at UMD majoring in CS & MATH. Mostly interested in SWE & ML but have been poking around with developer tooling and libraries too.
 
 ### What I'm Currently Up To
 
