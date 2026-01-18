@@ -15,5 +15,5 @@ Currently at my final year at UMD majoring in CS & MATH. Mostly interested in SW
 
 ### Languages & Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcho114)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcho114&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
