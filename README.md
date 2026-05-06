@@ -4,14 +4,14 @@
 
 ### About Me
 
-Currently at my final year at UMD majoring in CS & MATH. Mostly interested in SWE & ML but have been poking around with developer tooling and libraries too.
+Senior at UMD (CS & MATH). Work mostly in SWE but increasingly dabbling with distributed systems, ML, and developer tooling as of late.
 
 ### What I'm Currently Up To
 
 - Working out for fun
 - Cooking food for fun
 - Building random stuff for fun
-- Getting ready to get cooked by coursework again next semester
+- Getting ready to get cooked in industry
 
 ### Languages & Technologies
 
